@@ -1,0 +1,4 @@
+name: CPUSkyblock
+version: '${project.version}'
+main: crackpixel.org.skyblock.CPUSkyblock
+authors: [roighteously]
